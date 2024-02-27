@@ -104,7 +104,7 @@ plt.show()
 ![image](https://github.com/Adithya-Siddam/Ex1-AAI/assets/93427248/1df4f88e-f4bb-4ecb-9fd1-47c139fce23a)
 
 ### Network : 
-![image](https://github.com/Adithya-Siddam/Ex1-AAI/assets/93427248/8248293e-3f11-4f2a-bcce-603868341416)
+![image](https://github.com/Adithya-Siddam/Ex1-AAI/assets/93427248/1d09a626-38f8-492c-aa7d-5cbea2d2ecfc)
 ## Result:
    Thus a Bayesian Network is generated using Python
 
